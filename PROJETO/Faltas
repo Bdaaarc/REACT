@@ -1,0 +1,7 @@
+Concluir a modelagem do módulo de implantação do SIGEPS Falta
+
+Revisar o documento de Requisitos do sistema SUE, tendo em vista as alterações (manutenções evolutiva e corretiva) a serem realizadas no sistema. Entregar o documento revisado (1 por equipe).
+
+Criar a parte "Back-end" do SIGEPS incluindo ROTAS e MODELS, a partir das tabelas já construídas no banco de dados MySQL para os três módulos do sistema SIGEPS (Teste, Implantação e Manutenção)
+
+Construir 2 crononogramas: 1 para o SIGEPS e outro para o SUE.
